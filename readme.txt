@@ -1,0 +1,1 @@
+You must insert your own export.xml file from apple healthkit to use this
